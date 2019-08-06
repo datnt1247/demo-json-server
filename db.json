@@ -7,27 +7,27 @@
     },
     {
       "id":2,
-      "name":"Le Phuc Hau",
+      "name":"Nguyen Van A",
       "money":10000000000
     },
     {
       "id":3,
-      "name":"Nguyen Hoang Tuan Kiet",
+      "name":"Nguyen Van B",
       "money":10000000000
     },
     {
       "id":4,
-      "name":"Vo Le Minh Tri",
+      "name":"Nguyen Van C",
       "money":13000000000
     },
     {
       "id":5,
-      "name":"My Hanh",
+      "name":"Nguyen Van D",
       "money":13000000000
     },
     {
       "id":6,
-      "name":"Nguyen Tien Dat",
+      "name":"Nguyen Van E",
       "money":15000000000
     }
   ]
