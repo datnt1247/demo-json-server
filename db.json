@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "name":"Nguyen Tien Dat",
+    "money":15000000000
+  },
+  {
+    "id":2,
+    "name":"Le Phuc Hau",
+    "money":10000000000
+  },
+  {
+    "id":3,
+    "name":"Nguyen Hoang Tuan Kiet",
+    "money":10000000000
+  },
+  {
+    "id":4,
+    "name":"Vo Le Minh Tri",
+    "money":13000000000
+  },
+  {
+    "id":5,
+    "name":"My Hanh",
+    "money":13000000000
+  },
+  {
+    "id":6,
+    "name":"Nguyen Tien Dat",
+    "money":15000000000
+  }
+]
