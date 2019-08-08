@@ -2,8 +2,7 @@
   "demojsonserver": [
     {
       "id":1,
-      "name":"Nguyen Tien Dat",
-      "money":15
+      "name":"Nguyen Tien Dat"
     },
     {
       "id":2,
