@@ -3,32 +3,32 @@
     {
       "id":1,
       "name":"Nguyen Tien Dat",
-      "money":"1500"
+      "money":"sdfgsd"
     },
     {
       "id":2,
       "name":"Nguyen Van A",
-      "money":"1"
+      "money":"sdfg"
     },
     {
       "id":3,
       "name":"Nguyen Van B",
-      "money":"1"
+      "money":"sdfg"
     },
     {
       "id":4,
       "name":"Nguyen Van C",
-      "money":"13"
+      "money":"sdfg"
     },
     {
       "id":5,
       "name":"Nguyen Van D",
-      "money":"13"
+      "money":"sdfg"
     },
     {
       "id":6,
       "name":"Nguyen Van E",
-      "money":"15"
+      "money":"sdfg"
     }
   ]
 }
